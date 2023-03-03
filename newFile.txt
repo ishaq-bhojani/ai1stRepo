@@ -1,2 +1,3 @@
 Hello thi is my repo.
-Welcome to my repo
+Welcome to my repo.
+My name is Ishaq.
